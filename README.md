@@ -312,4 +312,4 @@ And as we have mentioned before, the **Public** portfolio stores all the backgro
 <h6 style="text-align: center;" markdown="1">Storing data in Public portfolio</h6>
 
 
-<hr>@ Copyright 2019, Zhonghao Li & Botao Liu & Qiuchen Wang. Created using Markdownpad 2
+<hr>@ Copyright 2019, Zhonghao Li & Botao Liu. Created using Markdownpad 2
